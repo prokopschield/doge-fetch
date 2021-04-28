@@ -1,0 +1,17 @@
+{
+	"name": "doge-fetch",
+	"description": "DogeHouse Fetch API implementation for doge-client",
+	"version": "0.0.1",
+	"main": "lib/doge-fetch.js",
+	"author": "Prokop Schield",
+	"license": "GPL-3.0-or-later",
+	"devDependencies": {
+		"@types/node": ">=14",
+		"@types/uuid": "^8.3.0"
+	},
+	"keywords": [],
+	"dependencies": {
+		"doge-socket": "^0.0.1",
+		"uuid": "^8.3.2"
+	}
+}
